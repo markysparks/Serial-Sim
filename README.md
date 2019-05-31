@@ -1,6 +1,6 @@
 # serial_sim
 A Python utility application to store (in real time) serial sensor data from up to 4 serial ports and then play the data 
-back over the same serial port at a later time. See the notes in the config file.
+back over the same serial port at a later date. See the notes in the config file.
 
 
 SETUP:
