@@ -8,7 +8,7 @@ SETUP:
 In the configuration file change the 'data collection' option to 'yes' to collect data over the serial ports or 'no' to
 transmit already collected data back over the serial ports.
 
-A PyInstaller generated Windows executable and config file can be found in the zip file.
+A PyInstaller generated Windows executable (run in the Windows command prompt window) and config file can be found in the zip file.
 
 NOTES:
 
