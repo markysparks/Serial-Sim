@@ -154,7 +154,7 @@ class SerialSimSetup:
                                 if len(lines) > n:
                                     next_line = lines[n]
                                     print(next_line)
-                                    seriport.write(next_line.encode('utf-8'))
+                                    seriport.write(next_line.encode())
                     except serial.SerialException as error:
                         print("Serial port error: " + str(error))
                 n += 1
